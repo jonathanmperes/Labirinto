@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author jonathanmarceloperes
+ *
+ */
+module Labirinto {
+}
